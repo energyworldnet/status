@@ -2,26 +2,24 @@ owner: energyworldnet
 repo: status
 
 sites:
-  - name: EWN Main Site
+  - name: Landing Page
     url: https://www.energyworldnet.com
-  - name: EWN Login
+  - name: Login
     url: https://auth.energyworldnet.com/static/login
-  - name: EWN Web Client
+  - name: Web App
     url: https://www.energyworldnet.com/PROIINET/Login
-  - name: EWN Test Center Client
+  - name: Testing Center
     url: https://www.energyworldnet.com/TestCenter/Complete
-  - name: EWN SCORM & AICC Packages
+  - name: SCORM & AICC Content
     url: https://www.energyworldnet.com/RusticiEngine/defaultui/version.aspx
 
 status-website:
   cname: status.energyworldnet.com
   favicon: https://www.energyworldnet.com/favicon.ico
   logoUrl: https://www.energyworldnet.com/wp-content/uploads/2020/08/logox2.png
-  name: ''
+  name: 'Status'
   robotsText: "User-agent: * \n Disallow: /"
   navbar:
-    - title: Status
-      href: /
     - title: Back to EWN
       href: https://www.energyworldnet.com
   theme: night
