@@ -24,7 +24,7 @@ status-website:
       href: /
     - title: Back to EWN
       href: https://www.energyworldnet.com
-  theme: dark
+  theme: night
 
 commitMessages:
   commitAuthorName: EWN Bot
