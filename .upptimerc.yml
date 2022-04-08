@@ -1,31 +1,36 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: energyworldnet
+repo: status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: EWN Main Site
+    url: https://www.energyworldnet.com
+  - name: EWN Login
+    url: https://auth.energyworldnet.com/static/login
+  - name: EWN Web Client
+    url: https://www.energyworldnet.com/PROIINET/Login
+  - name: EWN Test Center Client
+    url: https://www.energyworldnet.com/TestCenter/Complete
+  - name: EWN SCORM & AICC Packages
+    url: https://www.energyworldnet.com/RusticiEngine/defaultui/version.aspx
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.energyworldnet.com
+  favicon: https://www.energyworldnet.com/favicon.ico
+  logoUrl: https://www.energyworldnet.com/wp-content/uploads/2020/08/logox2.png
+  name: ''
+  robotsText: "User-agent: * \n Disallow: /"
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Back to EWN
+      href: https://www.energyworldnet.com
+  theme: dark
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+commitMessages:
+  commitAuthorName: EWN Bot
+  commitAuthorEmail: ewnbot@energyworldnet.com
+
+user-agent: ewnbot
+
+i18n:
+  footer: ''
