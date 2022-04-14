@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 342,
-    "timeDay": 261,
-    "timeWeek": 342,
-    "timeMonth": 342,
-    "timeYear": 342,
+    "time": 348,
+    "timeDay": 385,
+    "timeWeek": 348,
+    "timeMonth": 348,
+    "timeYear": 348,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "https://auth.energyworldnet.com/static/login",
     "icon": "https://favicons.githubusercontent.com/auth.energyworldnet.com",
     "slug": "login",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 293,
-    "timeWeek": 305,
-    "timeMonth": 305,
-    "timeYear": 305,
-    "dailyMinutesDown": {}
+    "time": 308,
+    "timeDay": 326,
+    "timeWeek": 308,
+    "timeMonth": 308,
+    "timeYear": 308,
+    "dailyMinutesDown": {
+      "2022-04-14": 0
+    }
   },
   {
     "name": "Web App",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 335,
-    "timeDay": 372,
-    "timeWeek": 335,
-    "timeMonth": 335,
-    "timeYear": 335,
+    "time": 331,
+    "timeDay": 308,
+    "timeWeek": 331,
+    "timeMonth": 331,
+    "timeYear": 331,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 570,
-    "timeDay": 31,
-    "timeWeek": 570,
-    "timeMonth": 570,
-    "timeYear": 570,
+    "time": 495,
+    "timeDay": 48,
+    "timeWeek": 495,
+    "timeMonth": 495,
+    "timeYear": 495,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 42,
-    "timeDay": 30,
-    "timeWeek": 42,
-    "timeMonth": 42,
-    "timeYear": 42,
+    "time": 43,
+    "timeDay": 48,
+    "timeWeek": 43,
+    "timeMonth": 43,
+    "timeYear": 43,
     "dailyMinutesDown": {}
   }
 ]
