@@ -23,6 +23,7 @@ status-website:
     - title: Back to EWN
       href: https://www.energyworldnet.com
   theme: night
+  css: 'article.link .graph { display: none; }'
 
 commitMessages:
   commitAuthorName: EWN Bot
