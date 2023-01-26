@@ -84,17 +84,19 @@
     "url": "https://www.energyworldnet.com/RusticiEngine/defaultui/version.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/www.energyworldnet.com.ico",
     "slug": "scorm-and-aicc-content",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 99,
-    "timeDay": 1021,
-    "timeWeek": 864,
-    "timeMonth": 355,
-    "timeYear": 99,
-    "dailyMinutesDown": {}
+    "time": 109,
+    "timeDay": 2081,
+    "timeWeek": 1148,
+    "timeMonth": 442,
+    "timeYear": 109,
+    "dailyMinutesDown": {
+      "2023-01-26": 0
+    }
   }
 ]
