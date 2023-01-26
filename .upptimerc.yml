@@ -9,7 +9,7 @@ sites:
   - name: Web App
     url: https://www.energyworldnet.com/PROIINET/Login
   - name: Testing Center
-    url: https://www.energyworldnet.com/TestCenter/Complete
+    url: https://test-center.energyworldnet.com/Complete
   - name: SCORM & AICC Content
     url: https://scorm.energyworldnet.com/defaultui/version.aspx
 
