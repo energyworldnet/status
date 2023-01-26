@@ -11,7 +11,7 @@ sites:
   - name: Testing Center
     url: https://www.energyworldnet.com/TestCenter/Complete
   - name: SCORM & AICC Content
-    url: https://www.energyworldnet.com/RusticiEngine/defaultui/version.aspx
+    url: https://scorm.energyworldnet.com/defaultui/version.aspx
 
 status-website:
   cname: status.energyworldnet.com
