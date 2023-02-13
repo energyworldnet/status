@@ -39,8 +39,8 @@
   },
   {
     "name": "Web App",
-    "url": "https://www.energyworldnet.com/PROIINET/Login",
-    "icon": "https://icons.duckduckgo.com/ip3/www.energyworldnet.com.ico",
+    "url": "https://app.energyworldnet.com/legacy/Login",
+    "icon": "https://icons.duckduckgo.com/ip3/app.energyworldnet.com.ico",
     "slug": "web-app",
     "status": "up",
     "uptime": "99.96%",
