@@ -7,7 +7,7 @@ sites:
   - name: Login
     url: https://auth.energyworldnet.com/static/login
   - name: Web App
-    url: https://www.energyworldnet.com/PROIINET/Login
+    url: https://app.energyworldnet.com/legacy/Login
   - name: Testing Center
     url: https://test-center.energyworldnet.com/Complete
   - name: SCORM & AICC Content
@@ -16,7 +16,7 @@ sites:
 status-website:
   cname: status.energyworldnet.com
   favicon: https://www.energyworldnet.com/favicon.ico
-  logoUrl: https://www.energyworldnet.com/wp-content/uploads/2020/08/logox2.png
+  logoUrl: https://raw.githubusercontent.com/energyworldnet/status/master/assets/ewn-logo.png
   name: 'Status'
   robotsText: "User-agent: * \n Disallow: /"
   navbar:
