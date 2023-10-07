@@ -61,19 +61,19 @@
     "url": "https://test-center.energyworldnet.com/Complete",
     "icon": "https://icons.duckduckgo.com/ip3/test-center.energyworldnet.com.ico",
     "slug": "testing-center",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 772,
-    "timeDay": 1581,
-    "timeWeek": 1235,
-    "timeMonth": 1084,
-    "timeYear": 882,
+    "time": 778,
+    "timeDay": 2000,
+    "timeWeek": 1413,
+    "timeMonth": 1139,
+    "timeYear": 887,
     "dailyMinutesDown": {
-      "2023-10-07": 0
+      "2023-10-07": 20
     }
   },
   {
