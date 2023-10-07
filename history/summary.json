@@ -61,18 +61,20 @@
     "url": "https://test-center.energyworldnet.com/Complete",
     "icon": "https://icons.duckduckgo.com/ip3/test-center.energyworldnet.com.ico",
     "slug": "testing-center",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 772,
-    "timeDay": 3050,
-    "timeWeek": 1395,
-    "timeMonth": 1117,
-    "timeYear": 884,
-    "dailyMinutesDown": {}
+    "timeDay": 1581,
+    "timeWeek": 1235,
+    "timeMonth": 1084,
+    "timeYear": 882,
+    "dailyMinutesDown": {
+      "2023-10-07": 0
+    }
   },
   {
     "name": "SCORM & AICC Content",
