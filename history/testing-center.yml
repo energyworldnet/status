@@ -1,7 +1,7 @@
 url: https://test-center.energyworldnet.com/Complete
-status: up
-code: 200
-responseTime: 2214
-lastUpdated: 2024-07-19T01:31:37.036Z
+status: down
+code: 502
+responseTime: 145
+lastUpdated: 2024-07-19T05:52:49.108Z
 startTime: 2022-04-08T20:57:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
