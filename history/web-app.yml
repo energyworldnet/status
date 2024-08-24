@@ -1,7 +1,7 @@
 url: https://app.energyworldnet.com/legacy/Login
-status: up
-code: 200
-responseTime: 387
-lastUpdated: 2024-08-23T23:03:38.076Z
+status: down
+code: 500
+responseTime: 480
+lastUpdated: 2024-08-24T02:49:41.134Z
 startTime: 2022-04-08T20:57:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
