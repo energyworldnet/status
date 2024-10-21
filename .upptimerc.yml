@@ -14,7 +14,7 @@ sites:
     url: https://scorm.energyworldnet.com/defaultui/version.aspx
 
 status-website:
-  cname: status.energyworldnet.com
+  cname: status.ewn.com
   favicon: https://www.energyworldnet.com/favicon.ico
   logoUrl: https://raw.githubusercontent.com/energyworldnet/status/master/assets/ewn-logo.png
   name: 'Status'
