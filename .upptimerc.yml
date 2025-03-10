@@ -7,11 +7,11 @@ sites:
   - name: Login
     url: https://auth.energyworldnet.com/static/login
   - name: Web App
-    url: https://app.energyworldnet.com/legacy/Login
+    url: https://app.ewn.com/legacy/Login
   - name: Testing Center
     url: https://test-center.energyworldnet.com/Complete
   - name: SCORM & AICC Content
-    url: https://scorm.energyworldnet.com/defaultui/version.aspx
+    url: https://scorm.ewn.com/defaultui/version.aspx
 
 status-website:
   cname: status.ewn.com
