@@ -1,7 +1,7 @@
 url: https://auth.energyworldnet.com/static/login
-status: down
-code: 500
-responseTime: 137
-lastUpdated: 2025-11-18T11:35:38.068Z
+status: up
+code: 200
+responseTime: 150
+lastUpdated: 2025-11-18T14:39:47.002Z
 startTime: 2022-04-08T20:57:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
