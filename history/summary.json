@@ -28,9 +28,9 @@
     "slug": "login",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 251,
     "timeDay": 137,
@@ -38,7 +38,7 @@
     "timeMonth": 211,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 9
     }
   },
   {
@@ -48,9 +48,9 @@
     "slug": "web-app",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 487,
     "timeDay": 311,
@@ -58,7 +58,7 @@
     "timeMonth": 504,
     "timeYear": 509,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 9,
       "2025-02-10": 15
     }
   },
@@ -68,10 +68,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/test-center.energyworldnet.com.ico",
     "slug": "testing-center",
     "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.75%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1376,
     "timeDay": 1795,
@@ -79,7 +79,7 @@
     "timeMonth": 1299,
     "timeYear": 1360,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 9
     }
   },
   {
@@ -87,17 +87,19 @@
     "url": "https://scorm.ewn.com/defaultui/version.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/scorm.ewn.com.ico",
     "slug": "scorm-and-aicc-content",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 269,
-    "timeDay": 186,
-    "timeWeek": 306,
-    "timeMonth": 308,
-    "timeYear": 280,
-    "dailyMinutesDown": {}
+    "timeDay": 124,
+    "timeWeek": 275,
+    "timeMonth": 300,
+    "timeYear": 279,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
