@@ -1,7 +1,7 @@
 url: https://scorm.ewn.com/defaultui/version.aspx
-status: down
-code: 500
-responseTime: 133
-lastUpdated: 2025-11-18T16:56:30.779Z
+status: up
+code: 200
+responseTime: 367
+lastUpdated: 2025-11-18T17:08:33.820Z
 startTime: 2022-04-08T20:57:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
