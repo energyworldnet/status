@@ -61,20 +61,20 @@
     "url": "https://app.ewn.com/legacy/Login",
     "icon": "https://icons.duckduckgo.com/ip3/app.ewn.com.ico",
     "slug": "web-app",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "93.91%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.94%",
     "time": 504,
-    "timeDay": 217,
-    "timeWeek": 384,
-    "timeMonth": 504,
+    "timeDay": 263,
+    "timeWeek": 381,
+    "timeMonth": 497,
     "timeYear": 499,
     "dailyMinutesDown": {
       "2025-11-18": 211,
-      "2026-08-01": 0
+      "2026-08-01": 88
     }
   },
   {
@@ -102,21 +102,21 @@
     "url": "https://scorm.ewn.com/defaultui/version.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/scorm.ewn.com.ico",
     "slug": "scorm-and-aicc-content",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "97.37%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "91.31%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.94%",
     "time": 295,
-    "timeDay": 301,
-    "timeWeek": 213,
-    "timeMonth": 253,
+    "timeDay": 299,
+    "timeWeek": 222,
+    "timeMonth": 255,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2025-11-18": 153,
       "2025-12-19": 12,
-      "2026-08-01": 38
+      "2026-08-01": 125
     }
   }
 ]
