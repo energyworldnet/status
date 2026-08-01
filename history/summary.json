@@ -61,19 +61,20 @@
     "url": "https://app.ewn.com/legacy/Login",
     "icon": "https://icons.duckduckgo.com/ip3/app.ewn.com.ico",
     "slug": "web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 504,
-    "timeDay": 355,
-    "timeWeek": 428,
-    "timeMonth": 527,
-    "timeYear": 500,
+    "timeDay": 217,
+    "timeWeek": 384,
+    "timeMonth": 504,
+    "timeYear": 499,
     "dailyMinutesDown": {
-      "2025-11-18": 211
+      "2025-11-18": 211,
+      "2026-08-01": 0
     }
   },
   {
@@ -103,10 +104,10 @@
     "slug": "scorm-and-aicc-content",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.96%",
     "time": 295,
     "timeDay": 301,
     "timeWeek": 213,
@@ -115,7 +116,7 @@
     "dailyMinutesDown": {
       "2025-11-18": 153,
       "2025-12-19": 12,
-      "2026-08-01": 0
+      "2026-08-01": 38
     }
   }
 ]
