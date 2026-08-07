@@ -3,7 +3,7 @@ repo: status
 
 sites:
   - name: Landing Page
-    url: https://www.energyworldnet.com
+    url: https://www.ewn.com
   - name: Login
     url: https://auth.energyworldnet.com/static/login
   - name: Web App
