@@ -4,16 +4,16 @@
     "url": "https://www.ewn.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ewn.com.ico",
     "slug": "landing-page",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "96.99%",
-    "uptimeWeek": "98.60%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.91%",
+    "uptimeDay": "95.11%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.90%",
     "time": 333,
-    "timeDay": 397,
-    "timeWeek": 313,
-    "timeMonth": 299,
+    "timeDay": 377,
+    "timeWeek": 314,
+    "timeMonth": 300,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2025-10-28": 13,
@@ -37,7 +37,7 @@
       "2026-08-07": 25,
       "2026-08-08": 59,
       "2026-08-09": 15,
-      "2026-08-11": 43
+      "2026-08-11": 70
     }
   },
   {
