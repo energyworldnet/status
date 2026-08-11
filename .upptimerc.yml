@@ -2,7 +2,9 @@ owner: energyworldnet
 repo: status
 
 sites:
-  - name: Landing Page
+  - location: united states
+    name: Landing Page
+    type: globalping
     url: https://www.ewn.com
   - name: Login
     url: https://auth.energyworldnet.com/static/login
